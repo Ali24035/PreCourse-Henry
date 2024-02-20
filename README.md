@@ -1,2 +1,2 @@
-# PreCourse-Henry
-Este es un repositorio del modulo2 del Precourse de Henry
+ALI
+Este es un proyecto de prueba de como crear un repositorio y clonarlo a mi computadora 
